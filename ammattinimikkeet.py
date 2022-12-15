@@ -252,3 +252,4 @@ kursori.close()
 add_nimikkeet()
 add_views()
 
+input("Paina ENTER sulkeaksesi terminaalin.")
