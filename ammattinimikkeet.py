@@ -4,10 +4,10 @@ import pandas as pd
 
 
 #server info (Set these settings per your preferences)
-hostname        = "localhost"
-username        = "serbi"
-userpw          = "root"
-databasename    = "ammattihenkilöt"
+hostname        = "localhost"       #YOUR HOSTNAME ('localhost' = default local)
+username        = ""                #YOUR HOST USERNAME
+userpw          = ""                #YOUR HOST PASSWORD
+databasename    = "ammattihenkilöt" #NAME OF CREATING DB
 
 
 #csv datan latausmetodi
