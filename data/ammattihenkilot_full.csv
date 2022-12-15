@@ -1,0 +1,1145 @@
+Ammattioikeus_koodi;Ammattioikeus;Ammattioikeus SV;Ammattioikeus EN;Vuosi;Ikä;Ammattioikeuksien lkm;Ammattihenkilöiden lkm
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2009;>=65;3444;3444
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2009;<65;12075;12075
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2009;>=65;1485;1485
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2009;<65;4976;4976
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2009;>=65;3841;3841
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2009;<65;8776;8776
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2009;>=65;464;464
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2009;<65;2537;2537
+007;laillistettu optikko;legitimerad optiker;registered optician;2009;>=65;206;206
+007;laillistettu optikko;legitimerad optiker;registered optician;2009;<65;1761;1761
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2009;>=65;229;229
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2009;<65;887;887
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2009;>=65;570;570
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2009;<65;5562;5562
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2009;>=65;567;567
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2009;<65;4653;4653
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2009;>=65;67;67
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2009;<65;1247;1247
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2009;>=65;18;18
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2009;<65;2279;2279
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2009;>=65;13;13
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2009;<65;463;463
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2009;>=65;17;17
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2009;<65;102;102
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2009;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2009;<65;17;17
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2009;>=65;47;47
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2009;<65;145;145
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2009;>=65;Alle 5;Alle 5
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2009;<65;30;30
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2009;<65;16;16
+031;laillistettu yleislääkäri;legitimerad allmänläkare;registered general practitioner;2009;>=65;12;12
+031;laillistettu yleislääkäri;legitimerad allmänläkare;registered general practitioner;2009;<65;4967;4967
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2009;>=65;4096;2978
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2009;<65;15471;12142
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2009;>=65;286;277
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2009;<65;710;704
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2009;>=65;16996;16996
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2009;<65;93159;93159
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2009;<65;222;222
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2009;>=65;Alle 5;Alle 5
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2009;<65;75;75
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2009;>=65;8;8
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2009;<65;126;126
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2009;>=65;8;8
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2009;<65;236;236
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2009;>=65;2313;2313
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2009;<65;6225;6225
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2009;>=65;573;573
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2009;<65;19060;19060
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2009;>=65;3085;3085
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2009;<65;5518;5518
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2009;>=65;778;778
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2009;<65;12712;12712
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2009;>=65;7385;7385
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2009;<65;28321;28321
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2009;>=65;791;791
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2009;<65;8046;8046
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2009;>=65;477;477
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2009;<65;4248;4248
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2009;>=65;645;645
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2009;<65;13949;13949
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2009;>=65;181;181
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2009;<65;5522;5522
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2009;>=65;46;46
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2009;<65;2774;2774
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2009;>=65;4449;4449
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2009;<65;13640;13640
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2009;>=65;282;282
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2009;<65;89044;89044
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2009;>=65;319;319
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2009;<65;11449;11449
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2009;>=65;444;444
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2009;<65;7710;7710
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2009;>=65;11;11
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2009;<65;1976;1976
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2009;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2009;<65;205;205
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2009;>=65;111;111
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2009;<65;808;808
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2009;>=65;63;63
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2009;<65;2838;2838
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2010;>=65;3749;3749
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2010;<65;11744;11744
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2010;>=65;1589;1589
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2010;<65;4963;4963
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2010;>=65;3967;3967
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2010;<65;8855;8855
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2010;>=65;489;489
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2010;<65;2585;2585
+007;laillistettu optikko;legitimerad optiker;registered optician;2010;>=65;210;210
+007;laillistettu optikko;legitimerad optiker;registered optician;2010;<65;1799;1799
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2010;>=65;239;239
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2010;<65;880;880
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2010;>=65;693;693
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2010;<65;5633;5633
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2010;>=65;677;677
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2010;<65;4814;4814
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2010;>=65;94;94
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2010;<65;1291;1291
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2010;>=65;20;20
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2010;<65;2409;2409
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2010;>=65;13;13
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2010;<65;481;481
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2010;>=65;20;20
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2010;<65;106;106
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2010;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2010;<65;18;18
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2010;>=65;52;52
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2010;<65;143;143
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2010;>=65;Alle 5;Alle 5
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2010;<65;32;32
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2010;>=65;Alle 5;Alle 5
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2010;<65;17;17
+031;laillistettu yleislääkäri;legitimerad allmänläkare;registered general practitioner;2010;>=65;15;15
+031;laillistettu yleislääkäri;legitimerad allmänläkare;registered general practitioner;2010;<65;5565;5565
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2010;>=65;4465;3227
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2010;<65;15612;12313
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2010;>=65;315;307
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2010;<65;698;691
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2010;>=65;18533;18533
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2010;<65;94468;94468
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2010;<65;238;238
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2010;>=65;Alle 5;Alle 5
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2010;<65;78;78
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2010;>=65;8;8
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2010;<65;126;126
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2010;>=65;11;11
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2010;<65;255;255
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2010;>=65;2432;2432
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2010;<65;6235;6235
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2010;>=65;737;737
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2010;<65;19619;19619
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2010;>=65;3162;3162
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2010;<65;5316;5316
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2010;>=65;851;851
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2010;<65;13313;13313
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2010;>=65;8279;8279
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2010;<65;27211;27211
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2010;>=65;1004;1004
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2010;<65;7994;7994
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2010;>=65;587;587
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2010;<65;4304;4304
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2010;>=65;755;755
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2010;<65;14254;14254
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2010;>=65;204;204
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2010;<65;5483;5483
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2010;>=65;63;63
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2010;<65;2755;2755
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2010;>=65;4801;4801
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2010;<65;13193;13193
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2010;>=65;483;483
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2010;<65;96731;96731
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2010;>=65;434;434
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2010;<65;11323;11323
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2010;>=65;518;518
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2010;<65;7606;7606
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2010;>=65;17;17
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2010;<65;2103;2103
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2010;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2010;<65;223;223
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2010;>=65;132;132
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2010;<65;784;784
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2010;>=65;76;76
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2010;<65;2812;2812
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2011;>=65;4076;4076
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2011;<65;21280;21280
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2011;>=65;1702;1702
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2011;<65;4957;4957
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2011;>=65;4080;4080
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2011;<65;8959;8959
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2011;>=65;527;527
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2011;<65;2633;2633
+007;laillistettu optikko;legitimerad optiker;registered optician;2011;>=65;221;221
+007;laillistettu optikko;legitimerad optiker;registered optician;2011;<65;1841;1841
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2011;>=65;252;252
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2011;<65;877;877
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2011;>=65;855;855
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2011;<65;5648;5648
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2011;>=65;817;817
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2011;<65;5028;5028
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2011;>=65;124;124
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2011;<65;1333;1333
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2011;>=65;25;25
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2011;<65;2529;2529
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2011;>=65;18;18
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2011;<65;501;501
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2011;>=65;21;21
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2011;<65;115;115
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2011;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2011;<65;18;18
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2011;>=65;58;58
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2011;<65;148;148
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2011;>=65;Alle 5;Alle 5
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2011;<65;35;35
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2011;>=65;Alle 5;Alle 5
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2011;<65;17;17
+031;laillistettu yleislääkäri;legitimerad allmänläkare;registered general practitioner;2011;>=65;Alle 5;Alle 5
+031;laillistettu yleislääkäri;legitimerad allmänläkare;registered general practitioner;2011;<65;41;41
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2011;>=65;4776;3470
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2011;<65;15844;12552
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2011;>=65;360;350
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2011;<65;682;677
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2011;>=65;20244;20244
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2011;<65;95645;95645
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2011;>=65;Alle 5;Alle 5
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2011;<65;239;239
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2011;>=65;Alle 5;Alle 5
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2011;<65;78;78
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2011;>=65;10;10
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2011;<65;124;124
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2011;>=65;15;15
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2011;<65;273;273
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2011;>=65;2549;2549
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2011;<65;6213;6213
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2011;>=65;987;987
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2011;<65;20143;20143
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2011;>=65;3276;3276
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2011;<65;5072;5072
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2011;>=65;955;955
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2011;<65;13920;13920
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2011;>=65;9395;9395
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2011;<65;25870;25870
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2011;>=65;1216;1216
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2011;<65;7949;7949
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2011;>=65;743;743
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2011;<65;4279;4279
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2011;>=65;903;903
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2011;<65;14665;14665
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2011;>=65;248;248
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2011;<65;5421;5421
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2011;>=65;82;82
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2011;<65;2731;2731
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2011;>=65;5213;5213
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2011;<65;12680;12680
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2011;>=65;788;788
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2011;<65;104913;104913
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2011;>=65;626;626
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2011;<65;11118;11118
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2011;>=65;630;630
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2011;<65;7475;7475
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2011;>=65;26;26
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2011;<65;2228;2228
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2011;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2011;<65;238;238
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2011;>=65;157;157
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2011;<65;755;755
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2011;>=65;93;93
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2011;<65;2785;2785
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2012;>=65;4403;4403
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2012;<65;21670;21670
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2012;>=65;1796;1796
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2012;<65;4991;4991
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2012;>=65;4121;4121
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2012;<65;9128;9128
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2012;>=65;541;541
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2012;<65;2707;2707
+007;laillistettu optikko;legitimerad optiker;registered optician;2012;>=65;241;241
+007;laillistettu optikko;legitimerad optiker;registered optician;2012;<65;1846;1846
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2012;>=65;259;259
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2012;<65;858;858
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2012;>=65;1018;1018
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2012;<65;5682;5682
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2012;>=65;982;982
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2012;<65;5276;5276
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2012;>=65;149;149
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2012;<65;1370;1370
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2012;>=65;28;28
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2012;<65;2694;2694
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2012;>=65;21;21
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2012;<65;513;513
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2012;>=65;28;28
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2012;<65;119;119
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2012;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2012;<65;22;22
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2012;>=65;71;71
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2012;<65;138;138
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2012;>=65;Alle 5;Alle 5
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2012;<65;40;40
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2012;>=65;Alle 5;Alle 5
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2012;<65;18;18
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2012;>=65;5129;3733
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2012;<65;15946;12693
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2012;>=65;377;367
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2012;<65;683;678
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2012;>=65;21972;21972
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2012;<65;96959;96959
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2012;>=65;Alle 5;Alle 5
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2012;<65;247;247
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2012;>=65;5;5
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2012;<65;80;80
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2012;>=65;10;10
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2012;<65;140;140
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2012;>=65;18;18
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2012;<65;287;287
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2012;>=65;2654;2654
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2012;<65;6214;6214
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2012;>=65;1311;1311
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2012;<65;20554;20554
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2012;>=65;3387;3387
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2012;<65;4822;4822
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2012;>=65;1069;1069
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2012;<65;14539;14539
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2012;>=65;10518;10518
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2012;<65;24494;24494
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2012;>=65;1455;1455
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2012;<65;7888;7888
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2012;>=65;932;932
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2012;<65;4213;4213
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2012;>=65;1081;1081
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2012;<65;14949;14949
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2012;>=65;298;298
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2012;<65;5355;5355
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2012;>=65;104;104
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2012;<65;2699;2699
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2012;>=65;5558;5558
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2012;<65;12236;12236
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2012;>=65;1214;1214
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2012;<65;113681;113681
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2012;>=65;843;843
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2012;<65;10893;10893
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2012;>=65;760;760
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2012;<65;7329;7329
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2012;>=65;38;38
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2012;<65;2335;2335
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2012;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2012;<65;257;257
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2012;>=65;175;175
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2012;<65;734;734
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2012;>=65;120;120
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2012;<65;2739;2739
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2013;>=65;4702;4702
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2013;<65;22070;22070
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2013;>=65;1903;1903
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2013;<65;5062;5062
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2013;>=65;4143;4143
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2013;<65;9264;9264
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2013;>=65;568;568
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2013;<65;2755;2755
+007;laillistettu optikko;legitimerad optiker;registered optician;2013;>=65;251;251
+007;laillistettu optikko;legitimerad optiker;registered optician;2013;<65;1887;1887
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2013;>=65;257;257
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2013;<65;858;858
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2013;>=65;1174;1174
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2013;<65;5769;5769
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2013;>=65;1145;1145
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2013;<65;5373;5373
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2013;>=65;169;169
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2013;<65;1420;1420
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2013;>=65;37;37
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2013;<65;2793;2793
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2013;>=65;24;24
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2013;<65;532;532
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2013;>=65;32;32
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2013;<65;123;123
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2013;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2013;<65;22;22
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2013;>=65;81;81
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2013;<65;130;130
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2013;>=65;5;5
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2013;<65;40;40
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2013;>=65;Alle 5;Alle 5
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2013;<65;18;18
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2013;>=65;5430;3973
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2013;<65;16207;12921
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2013;>=65;393;382
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2013;<65;693;689
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2013;>=65;23529;23529
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2013;<65;98270;98270
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2013;>=65;Alle 5;Alle 5
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2013;<65;255;255
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2013;>=65;6;6
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2013;<65;81;81
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2013;>=65;13;13
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2013;<65;138;138
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2013;>=65;20;20
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2013;<65;301;301
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2013;>=65;2730;2730
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2013;<65;6278;6278
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2013;>=65;1659;1659
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2013;<65;20891;20891
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2013;>=65;3474;3474
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2013;<65;4594;4594
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2013;>=65;1203;1203
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2013;<65;15279;15279
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2013;>=65;11582;11582
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2013;<65;23172;23172
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2013;>=65;1709;1709
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2013;<65;7764;7764
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2013;>=65;1065;1065
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2013;<65;4126;4126
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2013;>=65;1270;1270
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2013;<65;15099;15099
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2013;>=65;351;351
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2013;<65;5287;5287
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2013;>=65;139;139
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2013;<65;2658;2658
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2013;>=65;5923;5923
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2013;<65;11765;11765
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2013;>=65;1794;1794
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2013;<65;122230;122230
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2013;>=65;1088;1088
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2013;<65;10626;10626
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2013;>=65;932;932
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2013;<65;7136;7136
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2013;>=65;53;53
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2013;<65;2424;2424
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2013;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2013;<65;265;265
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2013;>=65;202;202
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2013;<65;702;702
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2013;>=65;154;154
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2013;<65;2696;2696
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2014;>=65;5062;5062
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2014;<65;22426;22426
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2014;>=65;1981;1981
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2014;<65;5152;5152
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2014;>=65;4131;4131
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2014;<65;9428;9428
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2014;>=65;598;598
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2014;<65;2818;2818
+007;laillistettu optikko;legitimerad optiker;registered optician;2014;>=65;280;280
+007;laillistettu optikko;legitimerad optiker;registered optician;2014;<65;1920;1920
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2014;>=65;266;266
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2014;<65;849;849
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2014;>=65;1310;1310
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2014;<65;5857;5857
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2014;>=65;1311;1311
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2014;<65;5632;5632
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2014;>=65;190;190
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2014;<65;1478;1478
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2014;>=65;45;45
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2014;<65;2966;2966
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2014;>=65;30;30
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2014;<65;547;547
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2014;>=65;32;32
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2014;<65;137;137
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2014;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2014;<65;23;23
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2014;>=65;97;97
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2014;<65;119;119
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2014;>=65;6;6
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2014;<65;41;41
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2014;>=65;Alle 5;Alle 5
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2014;<65;18;18
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2014;>=65;5805;4254
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2014;<65;16317;13077
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2014;>=65;415;404
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2014;<65;687;683
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2014;>=65;25039;25039
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2014;<65;99798;99798
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2014;>=65;5;5
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2014;<65;266;266
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2014;>=65;6;6
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2014;<65;83;83
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2014;>=65;15;15
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2014;<65;152;152
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2014;>=65;21;21
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2014;<65;335;335
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2014;>=65;2774;2774
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2014;<65;6371;6371
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2014;>=65;2060;2060
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2014;<65;21280;21280
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2014;>=65;3529;3529
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2014;<65;4394;4394
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2014;>=65;1333;1333
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2014;<65;16054;16054
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2014;>=65;12667;12667
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2014;<65;21820;21820
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2014;>=65;1928;1928
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2014;<65;7703;7703
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2014;>=65;1187;1187
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2014;<65;4151;4151
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2014;>=65;1461;1461
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2014;<65;15381;15381
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2014;>=65;415;415
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2014;<65;5212;5212
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2014;>=65;181;181
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2014;<65;2608;2608
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2014;>=65;6302;6302
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2014;<65;11298;11298
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2014;>=65;2487;2487
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2014;<65;131683;131683
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2014;>=65;1362;1362
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2014;<65;10345;10345
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2014;>=65;1105;1105
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2014;<65;6939;6939
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2014;>=65;78;78
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2014;<65;2527;2527
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2014;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2014;<65;281;281
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2014;>=65;228;228
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2014;<65;671;671
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2014;>=65;183;183
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2014;<65;2657;2657
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2015;>=65;5445;5445
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2015;<65;22741;22741
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2015;>=65;2054;2054
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2015;<65;5190;5190
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2015;>=65;4093;4093
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2015;<65;9585;9585
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2015;>=65;611;611
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2015;<65;2877;2877
+007;laillistettu optikko;legitimerad optiker;registered optician;2015;>=65;301;301
+007;laillistettu optikko;legitimerad optiker;registered optician;2015;<65;1973;1973
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2015;>=65;275;275
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2015;<65;865;865
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2015;>=65;1446;1446
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2015;<65;5957;5957
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2015;>=65;1479;1479
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2015;<65;5926;5926
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2015;>=65;208;208
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2015;<65;1535;1535
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2015;>=65;55;55
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2015;<65;3123;3123
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2015;>=65;33;33
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2015;<65;565;565
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2015;>=65;35;35
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2015;<65;141;141
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2015;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2015;<65;27;27
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2015;>=65;97;97
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2015;<65;119;119
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2015;>=65;7;7
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2015;<65;42;42
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2015;>=65;Alle 5;Alle 5
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2015;<65;18;18
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2015;>=65;6237;4566
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2015;<65;16367;13205
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2015;>=65;424;413
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2015;<65;695;691
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2015;>=65;26354;26354
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2015;<65;102073;102073
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2015;>=65;6;6
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2015;<65;276;276
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2015;>=65;6;6
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2015;<65;90;90
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2015;>=65;15;15
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2015;<65;154;154
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2015;>=65;25;25
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2015;<65;353;353
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2015;>=65;2829;2829
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2015;<65;6506;6506
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2015;>=65;2469;2469
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2015;<65;21713;21713
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2015;>=65;3627;3627
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2015;<65;4152;4152
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2015;>=65;1474;1474
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2015;<65;16956;16956
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2015;>=65;13695;13695
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2015;<65;20511;20511
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2015;>=65;2140;2140
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2015;<65;7691;7691
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2015;>=65;1292;1292
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2015;<65;4202;4202
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2015;>=65;1614;1614
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2015;<65;15761;15761
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2015;>=65;483;483
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2015;<65;5128;5128
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2015;>=65;215;215
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2015;<65;2562;2562
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2015;>=65;6633;6633
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2015;<65;10845;10845
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2015;>=65;3343;3343
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2015;<65;140845;140845
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2015;>=65;1642;1642
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2015;<65;10048;10048
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2015;>=65;1330;1330
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2015;<65;6689;6689
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2015;>=65;101;101
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2015;<65;2667;2667
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2015;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2015;<65;317;317
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2015;>=65;260;260
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2015;<65;637;637
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2015;>=65;227;227
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2015;<65;2604;2604
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2016;>=65;5830;5830
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2016;<65;23067;23067
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2016;>=65;2145;2145
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2016;<65;5262;5262
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2016;>=65;4044;4044
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2016;<65;9730;9730
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2016;>=65;630;630
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2016;<65;2919;2919
+007;laillistettu optikko;legitimerad optiker;registered optician;2016;>=65;328;328
+007;laillistettu optikko;legitimerad optiker;registered optician;2016;<65;1976;1976
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2016;>=65;296;296
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2016;<65;838;838
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2016;>=65;1573;1573
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2016;<65;6048;6048
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2016;>=65;1664;1664
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2016;<65;5902;5902
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2016;>=65;231;231
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2016;<65;1612;1612
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2016;>=65;72;72
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2016;<65;3291;3291
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2016;>=65;43;43
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2016;<65;578;578
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2016;>=65;37;37
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2016;<65;148;148
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2016;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2016;<65;28;28
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2016;>=65;106;106
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2016;<65;114;114
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2016;>=65;7;7
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2016;<65;45;45
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2016;>=65;7;7
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2016;<65;13;13
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2016;>=65;6641;4867
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2016;<65;16360;13276
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2016;>=65;435;424
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2016;<65;707;703
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2016;>=65;27639;27639
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2016;<65;103900;103900
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2016;>=65;7;7
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2016;<65;277;277
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2016;>=65;7;7
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2016;<65;89;89
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2016;>=65;16;16
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2016;<65;179;179
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2016;>=65;27;27
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2016;<65;368;368
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2016;>=65;7;7
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2016;<65;543;543
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2016;>=65;Alle 5;Alle 5
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2016;<65;989;989
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2016;<65;79;79
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2016;<65;1056;1056
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2016;<65;42;42
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2016;<65;15;15
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2016;>=65;2855;2855
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2016;<65;6566;6566
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2016;>=65;2838;2838
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2016;<65;22039;22039
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2016;>=65;3767;3767
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2016;<65;3880;3880
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2016;>=65;1609;1609
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2016;<65;17846;17846
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2016;>=65;14709;14709
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2016;<65;19197;19197
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2016;>=65;2337;2337
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2016;<65;7602;7602
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2016;>=65;1356;1356
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2016;<65;4250;4250
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2016;>=65;1764;1764
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2016;<65;16027;16027
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2016;>=65;568;568
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2016;<65;5022;5022
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2016;>=65;248;248
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2016;<65;2524;2524
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2016;>=65;6949;6949
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2016;<65;10410;10410
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2016;>=65;4297;4297
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2016;<65;150039;150039
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2016;>=65;1916;1916
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2016;<65;9758;9758
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2016;>=65;1546;1546
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2016;<65;6447;6447
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2016;>=65;133;133
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2016;<65;2746;2746
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2016;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2016;<65;342;342
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2016;>=65;277;277
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2016;<65;612;612
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2016;>=65;272;272
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2016;<65;2551;2551
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2017;>=65;6239;6239
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2017;<65;23302;23302
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2017;>=65;2224;2224
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2017;<65;5314;5314
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2017;>=65;4057;4057
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2017;<65;9924;9924
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2017;>=65;667;667
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2017;<65;2964;2964
+007;laillistettu optikko;legitimerad optiker;registered optician;2017;>=65;362;362
+007;laillistettu optikko;legitimerad optiker;registered optician;2017;<65;2001;2001
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2017;>=65;306;306
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2017;<65;840;840
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2017;>=65;1694;1694
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2017;<65;6152;6152
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2017;>=65;1878;1878
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2017;<65;5951;5951
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2017;>=65;253;253
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2017;<65;1672;1672
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2017;>=65;89;89
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2017;<65;3467;3467
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2017;>=65;48;48
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2017;<65;592;592
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2017;>=65;38;38
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2017;<65;157;157
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2017;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2017;<65;31;31
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2017;<65;113;113
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2017;>=65;113;113
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2017;>=65;9;9
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2017;<65;49;49
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2017;>=65;10;10
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2017;<65;12;12
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2017;>=65;7077;5177
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2017;<65;16425;13434
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2017;>=65;437;426
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2017;<65;716;712
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2017;>=65;29196;29196
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2017;<65;106152;106152
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2017;>=65;9;9
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2017;<65;295;295
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2017;>=65;7;7
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2017;<65;95;95
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2017;>=65;19;19
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2017;<65;175;175
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2017;>=65;29;29
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2017;<65;414;414
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2017;>=65;76;76
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2017;<65;5663;5663
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2017;>=65;18;18
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2017;<65;18307;18307
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2017;>=65;Alle 5;Alle 5
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2017;<65;557;557
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2017;>=65;7;7
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2017;<65;14510;14510
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2017;>=65;6;6
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2017;<65;1011;1011
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2017;<65;416;416
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2017;>=65;2912;2912
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2017;<65;6637;6637
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2017;>=65;3255;3255
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2017;<65;22376;22376
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2017;<65;3585;3585
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2017;>=65;3901;3901
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2017;>=65;1796;1796
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2017;<65;18678;18678
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2017;>=65;15722;15722
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2017;<65;17862;17862
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2017;>=65;2532;2532
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2017;<65;7545;7545
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2017;>=65;1416;1416
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2017;<65;4351;4351
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2017;>=65;1992;1992
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2017;<65;16385;16385
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2017;>=65;693;693
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2017;<65;4879;4879
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2017;>=65;294;294
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2017;<65;2474;2474
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2017;>=65;7239;7239
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2017;<65;9980;9980
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2017;>=65;5438;5438
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2017;<65;159798;159798
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2017;>=65;2188;2188
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2017;<65;9453;9453
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2017;>=65;1815;1815
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2017;<65;6151;6151
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2017;>=65;171;171
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2017;<65;2848;2848
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2017;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2017;<65;378;378
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2017;>=65;295;295
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2017;<65;595;595
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2017;>=65;341;341
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2017;<65;2461;2461
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2018;>=65;6778;6778
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2018;<65;23442;23442
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2018;>=65;2353;2353
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2018;<65;5367;5367
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2018;>=65;4067;4067
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2018;<65;10099;10099
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2018;>=65;697;697
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2018;<65;3010;3010
+007;laillistettu optikko;legitimerad optiker;registered optician;2018;>=65;397;397
+007;laillistettu optikko;legitimerad optiker;registered optician;2018;<65;2029;2029
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2018;>=65;311;311
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2018;<65;834;834
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2018;>=65;1795;1795
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2018;<65;6286;6286
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2018;>=65;2091;2091
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2018;<65;5950;5950
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2018;>=65;281;281
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2018;<65;1718;1718
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2018;>=65;109;109
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2018;<65;3665;3665
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2018;>=65;59;59
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2018;<65;604;604
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2018;>=65;39;39
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2018;<65;168;168
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2018;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2018;<65;35;35
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2018;<65;112;112
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2018;>=65;122;122
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2018;>=65;13;13
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2018;<65;45;45
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2018;>=65;10;10
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2018;<65;12;12
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2018;>=65;7617;5590
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2018;<65;16398;13502
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2018;>=65;451;440
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2018;<65;727;723
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2018;>=65;30714;30714
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2018;<65;108202;108202
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2018;>=65;12;12
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2018;<65;307;307
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2018;>=65;9;9
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2018;<65;103;103
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2018;>=65;21;21
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2018;<65;190;190
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2018;>=65;31;31
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2018;<65;448;448
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2018;>=65;176;176
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2018;<65;6685;6685
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2018;>=65;64;64
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2018;<65;27989;27989
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2018;>=65;Alle 5;Alle 5
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2018;<65;818;818
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2018;>=65;6624;6624
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2018;<65;161797;161797
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2018;>=65;21;21
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2018;<65;1335;1335
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2018;>=65;7;7
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2018;<65;562;562
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;rehabilitation councellor;2018;>=65;Alle 5;Alle 5
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;rehabilitation councellor;2018;<65;516;516
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2018;>=65;2952;2952
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2018;<65;6702;6702
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2018;>=65;3709;3709
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2018;<65;22521;22521
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2018;<65;3276;3276
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2018;>=65;4059;4059
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2018;>=65;1982;1982
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2018;<65;19466;19466
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2018;<65;16497;16497
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2018;>=65;16751;16751
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2018;>=65;2824;2824
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2018;<65;7406;7406
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2018;>=65;1499;1499
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2018;<65;4441;4441
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2018;>=65;2267;2267
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2018;<65;16663;16663
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2018;>=65;850;850
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2018;<65;4693;4693
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2018;>=65;329;329
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2018;<65;2429;2429
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2018;>=65;7539;7539
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2018;<65;9532;9532
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2018;>=65;6627;6627
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2018;<65;168011;168011
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2018;>=65;2476;2476
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2018;<65;9133;9133
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2018;>=65;2114;2114
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2018;<65;5822;5822
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2018;>=65;209;209
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2018;<65;2956;2956
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2018;>=65;Alle 5;Alle 5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2018;<65;423;423
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2018;>=65;319;319
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2018;<65;567;567
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2018;>=65;421;421
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2018;<65;2368;2368
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2019;>=65;7292;7292
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2019;<65;23690;23690
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2019;>=65;2481;2481
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2019;<65;5366;5366
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2019;>=65;4054;4054
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2019;<65;10245;10245
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2019;>=65;732;732
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2019;<65;3039;3039
+007;laillistettu optikko;legitimerad optiker;registered optician;2019;>=65;450;450
+007;laillistettu optikko;legitimerad optiker;registered optician;2019;<65;2053;2053
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2019;>=65;324;324
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2019;<65;835;835
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2019;>=65;1886;1886
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2019;<65;6412;6412
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2019;>=65;2326;2326
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2019;<65;5914;5914
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2019;>=65;307;307
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2019;<65;1787;1787
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2019;>=65;143;143
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2019;<65;3855;3855
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2019;>=65;70;70
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2019;<65;614;614
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2019;>=65;44;44
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2019;<65;171;171
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2019;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2019;<65;40;40
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2019;<65;110;110
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2019;>=65;127;127
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2019;>=65;15;15
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2019;<65;44;44
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2019;>=65;10;10
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2019;<65;12;12
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2019;>=65;8138;5976
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2019;<65;16454;13651
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2019;>=65;476;464
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2019;<65;722;719
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2019;>=65;32300;32300
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2019;<65;110776;110776
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2019;>=65;16;16
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2019;<65;331;331
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2019;>=65;11;11
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2019;<65;106;106
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2019;>=65;21;21
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2019;<65;188;188
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2019;>=65;35;35
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2019;<65;488;488
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2019;>=65;332;332
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2019;<65;6965;6965
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2019;>=65;132;132
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2019;<65;30425;30425
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2019;>=65;Alle 5;Alle 5
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2019;<65;972;972
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2019;>=65;8088;8088
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2019;<65;169174;169174
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2019;>=65;41;41
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2019;<65;1356;1356
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2019;>=65;18;18
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2019;<65;605;605
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;rehabilitation councellor;2019;>=65;Alle 5;Alle 5
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;rehabilitation councellor;2019;<65;581;581
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2019;>=65;3015;3015
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2019;<65;6794;6794
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2019;>=65;4214;4214
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2019;<65;22751;22751
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2019;<65;2976;2976
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2019;>=65;4210;4210
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2019;>=65;2193;2193
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2019;<65;20364;20364
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2019;<65;15116;15116
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2019;>=65;17770;17770
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2019;>=65;3083;3083
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2019;<65;7342;7342
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2019;>=65;1586;1586
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2019;<65;4501;4501
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2019;>=65;2556;2556
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2019;<65;17075;17075
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2019;>=65;1051;1051
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2019;<65;4476;4476
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2019;>=65;375;375
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2019;<65;2371;2371
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2019;>=65;7810;7810
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2019;<65;9086;9086
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2019;>=65;8091;8091
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2019;<65;175413;175413
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2019;>=65;2754;2754
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2019;<65;8829;8829
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2019;>=65;2482;2482
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2019;<65;5430;5430
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2019;>=65;257;257
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2019;<65;3069;3069
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2019;>=65;5;5
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2019;<65;480;480
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2019;>=65;348;348
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2019;<65;533;533
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2019;>=65;499;499
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2019;<65;2277;2277
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2020;>=65;7772;7772
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2020;<65;23888;23888
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2020;>=65;2616;2616
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2020;<65;5360;5360
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2020;>=65;3990;3990
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2020;<65;10451;10451
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2020;>=65;753;753
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2020;<65;3088;3088
+007;laillistettu optikko;legitimerad optiker;registered optician;2020;>=65;496;496
+007;laillistettu optikko;legitimerad optiker;registered optician;2020;<65;2041;2041
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2020;>=65;335;335
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2020;<65;827;827
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2020;>=65;1993;1993
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2020;<65;6587;6587
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2020;>=65;2559;2559
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2020;<65;5817;5817
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2020;>=65;339;339
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2020;<65;1868;1868
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2020;>=65;167;167
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2020;<65;4069;4069
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2020;>=65;78;78
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2020;<65;633;633
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2020;>=65;46;46
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2020;<65;175;175
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2020;>=65;Alle 5;Alle 5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2020;<65;41;41
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2020;<65;108;108
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2020;>=65;130;130
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2020;>=65;17;17
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2020;<65;46;46
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2020;<65;11;11
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2020;>=65;11;11
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2020;>=65;8602;6348
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2020;<65;16571;13816
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2020;>=65;501;489
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2020;<65;717;714
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2020;>=65;34008;34008
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2020;<65;112743;112743
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2020;>=65;22;22
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2020;<65;330;330
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2020;>=65;10;10
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2020;<65;114;114
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2020;>=65;25;25
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2020;<65;203;203
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2020;>=65;41;41
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2020;<65;545;545
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2020;>=65;503;503
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2020;<65;7254;7254
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2020;>=65;255;255
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2020;<65;32715;32715
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2020;>=65;5;5
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2020;<65;1088;1088
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2020;>=65;9795;9795
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2020;<65;174730;174730
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2020;>=65;98;98
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2020;<65;1321;1321
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2020;>=65;34;34
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2020;<65;608;608
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;rehabilitation councellor;2020;>=65;Alle 5;Alle 5
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;rehabilitation councellor;2020;<65;641;641
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2020;>=65;3077;3077
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2020;<65;6851;6851
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2020;>=65;4691;4691
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2020;<65;22974;22974
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2020;<65;2663;2663
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2020;>=65;4376;4376
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2020;>=65;2405;2405
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2020;<65;20989;20989
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2020;<65;13716;13716
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2020;>=65;18785;18785
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2020;>=65;3413;3413
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2020;<65;7171;7171
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2020;>=65;1724;1724
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2020;<65;4550;4550
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2020;>=65;2899;2899
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2020;<65;17361;17361
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2020;>=65;1263;1263
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2020;<65;4239;4239
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2020;>=65;418;418
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2020;<65;2312;2312
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2020;>=65;8126;8126
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2020;<65;8599;8599
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2020;>=65;9800;9800
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2020;<65;181416;181416
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2020;>=65;3009;3009
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2020;<65;8535;8535
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2020;>=65;2858;2858
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2020;<65;5027;5027
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2020;>=65;313;313
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2020;<65;3139;3139
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2020;>=65;7;7
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2020;<65;513;513
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2020;>=65;366;366
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2020;<65;510;510
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2020;>=65;601;601
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2020;<65;2164;2164
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2021;>=65;8263;8263
+001;laillistettu lääkäri;legitimerad läkare;registered medical doctor;2021;<65;24198;24198
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2021;>=65;2770;2770
+003;laillistettu hammaslääkäri;legitimerad tandläkare;registered dental practitioner;2021;<65;5337;5337
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2021;>=65;3967;3967
+005;laillistettu farmaseutti;legitimerad farmaceut;registered dispenser;2021;<65;10603;10603
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2021;>=65;796;796
+006;laillistettu proviisori;legitimerad provisor;registered pharmacist;2021;<65;3139;3139
+007;laillistettu optikko;legitimerad optiker;registered optician;2021;>=65;510;510
+007;laillistettu optikko;legitimerad optiker;registered optician;2021;<65;2087;2087
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2021;>=65;341;341
+008;laillistettu hammasteknikko;legitimerad tandtekniker;registered dental technician;2021;<65;821;821
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2021;>=65;2088;2088
+009;laillistettu psykologi;legitimerad psykolog;registered psychologist;2021;<65;6748;6748
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2021;>=65;2835;2835
+010;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;psychotherapist with protected occupational title;2021;<65;5812;5812
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2021;>=65;372;372
+012;laillistettu puheterapeutti;legitimerad talterapeut;registered speech therapist;2021;<65;1948;1948
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2021;>=65;211;211
+014;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered occupational therapist;2021;<65;4219;4219
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2021;>=65;84;84
+016;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dietitian;2021;<65;669;669
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2021;>=65;50;50
+020;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;hospital physicist with protected occupational title;2021;<65;181;181
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2021;>=65;5;5
+021;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;hospital geneticist with protected occupational title;2021;<65;43;43
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2021;<65;112;112
+022;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;hospital chemist with protected occupational title;2021;>=65;129;129
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2021;>=65;18;18
+023;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title;2021;<65;45;45
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2021;>=65;11;11
+024;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;hospital cell biologist with protected occupational title;2021;<65;12;12
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2021;>=65;9081;6709
+034;laillistettu erikoislääkäri;legitimerad specialistläkare;registered specialist;2021;<65;16614;13956
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2021;>=65;524;512
+035;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;specialised dental practitioner;2021;<65;736;733
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2021;>=65;35854;35854
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered nurse;2021;<65;114140;114140
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2021;>=65;31;31
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title;2021;<65;338;338
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2021;>=65;12;12
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;chiropractor with protected occupational title;2021;<65;114;114
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2021;>=65;28;28
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;naprapath with protected occupational title;2021;<65;204;204
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2021;>=65;49;49
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;osteopath with protected occupational title;2021;<65;575;575
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2021;>=65;712;712
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;social worker;2021;<65;7527;7527
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2021;>=65;402;402
+251;laillistettu sosionomi;legitimerad socionom;bachelor of social services;2021;<65;35189;35189
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2021;>=65;12;12
+252;laillistettu geronomi;legitimerad geronom;elderly care professional;2021;<65;1247;1247
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2021;>=65;11592;11592
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;practical nurse (social welfare);2021;<65;178064;178064
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2021;>=65;199;199
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;nurse in a home environment;2021;<65;1236;1236
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2021;>=65;45;45
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;nurse caring for the intellectually or developmentally disabled;2021;<65;608;608
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;rehabilitation councellor;2021;>=65;8;8
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;rehabilitation councellor;2021;<65;697;697
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2021;>=65;3141;3141
+300;laillistettu kätilö;legitimerad barnmorska;registered midwife;2021;<65;6838;6838
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2021;>=65;5235;5235
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;registered public health nurse;2021;<65;22979;22979
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2021;<65;2355;2355
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;practical psychiatric nurse with protected occupational title;2021;>=65;4522;4522
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2021;>=65;2635;2635
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;trained masseur with protected occupational title;2021;<65;21564;21564
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2021;<65;12205;12205
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;assistant nurse with protected occupational title;2021;>=65;19922;19922
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2021;>=65;3674;3674
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;registered medical laboratory technologist;2021;<65;7034;7034
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2021;>=65;1876;1876
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;registered radiographer;2021;<65;4519;4519
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2021;>=65;3266;3266
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered physiotherapist;2021;<65;17599;17599
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2021;>=65;1522;1522
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;physiotherapy assistant with protected occupational title;2021;<65;3960;3960
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2021;>=65;475;475
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;practical mental nurse with protected occupational title;2021;<65;2242;2242
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2021;<65;8046;8046
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;children's nurse with protected occupational title;2021;>=65;8496;8496
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2021;>=65;11604;11604
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;practical nurse (health care);2021;<65;185466;185466
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2021;>=65;3271;3271
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;practical nurse with protected occupational title;2021;<65;8217;8217
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2021;>=65;3204;3204
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;dental assistant with protected occupational title;2021;<65;4649;4649
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2021;>=65;372;372
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered dental hygienist;2021;<65;3207;3207
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2021;>=65;7;7
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;podiatrist with protected occupational title;2021;<65;565;565
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2021;>=65;391;391
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropodist with protected occupational title;2021;<65;482;482
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2021;>=65;711;711
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;hospital and ambulance attendant with protected occupational title;2021;<65;2039;2039

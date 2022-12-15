@@ -1,0 +1,50 @@
+Ammattioikeus_koodi;Ammattioikeus;Ammattioikeus SV;Ammattioikeus EN
+1;laillistettu lääkäri;legitimerad läkare;registered medical doctor
+3;laillistettu hammaslääkäri;legitimerad tandläkare;registered medical doctor
+5;laillistettu farmaseutti;legitimerad farmaceut;registered dental practitioner
+6;laillistettu proviisori;legitimerad provisor;registered dental practitioner
+7;laillistettu optikko;legitimerad optiker;registered dispenser
+8;laillistettu hammasteknikko;legitimerad tandtekniker;registered dispenser
+9;laillistettu psykologi;legitimerad psykolog;registered pharmacist
+10;nimikesuojattu psykoterapeutti;psykoterapeut med skyddad yrkesbeteckning;registered pharmacist
+12;laillistettu puheterapeutti;legitimerad talterapeut;registered optician
+14;laillistettu toimintaterapeutti;legitimerad ergoterapeut;registered optician
+16;laillistettu ravitsemusterapeutti;legitimerad näringsterapeut;registered dental technician
+20;nimikesuojattu sairaalafyysikko;sjukhusfysiker med skyddad yrkesbeteckning;registered dental technician
+21;nimikesuojattu sairaalageneetikko;sjukhusgenetiker med skyddad yrkesbeteckning;registered psychologist
+22;nimikesuojattu sairaalakemisti;sjukhuskemist med skyddad yrkesbeteckning;registered psychologist
+23;nimikesuojattu sairaalamikrobiologi;sjukhusmikrobiolog med skyddad yrkesbeteckning;psychotherapist with protected occupational title
+24;nimikesuojattu sairaalasolubiologi;sjukhuscellbiolog med skyddad yrkesbeteckning;psychotherapist with protected occupational title
+31;laillistettu yleislääkäri;legitimerad allmänläkare;registered speech therapist
+34;laillistettu erikoislääkäri;legitimerad specialistläkare;registered speech therapist
+35;laillistettu erikoishammaslääkäri;legitimerad specialisttandläkare;registered occupational therapist
+100;laillistettu sairaanhoitaja;legitimerad sjukskötare;registered occupational therapist
+201;nimikesuojattu apuvälineteknikko;hjälpmedelstekniker med skyddad yrkesbeteckning;registered dietitian
+220;nimikesuojattu kiropraktikko;kiropraktor med skyddad yrkesbeteckning;registered dietitian
+230;nimikesuojattu naprapaatti;naprapat med skyddad yrkesbeteckning;hospital physicist with protected occupational title
+240;nimikesuojattu osteopaatti;osteopat med skyddad yrkesbeteckning;hospital physicist with protected occupational title
+300;laillistettu kätilö;legitimerad barnmorska;hospital geneticist with protected occupational title
+400;laillistettu terveydenhoitaja;legitimerad hälsovårdare;hospital geneticist with protected occupational title
+503;nimikesuojattu mielisairaanhoitaja;sinnessjukvårdare med skyddad yrkesbeteckning;hospital chemist with protected occupational title
+506;nimikesuojattu koulutettu hieroja;utbildad massör med skyddad yrkesbeteckning;hospital chemist with protected occupational title
+507;nimikesuojattu apuhoitaja;hjälpskötare med skyddad yrkesbeteckning;hospital microbiologist with protected occupational title
+508;laillistettu laboratoriohoitaja;legitimerad laboratorieskötare;hospital microbiologist with protected occupational title
+509;laillistettu röntgenhoitaja;legitimerad röntgenskötare;hospital cell biologist with protected occupational title
+600;laillistettu fysioterapeutti;legitimerad fysioterapeut;registered general practitioner
+602;nimikesuojattu kuntohoitaja;konditionsskötare med skyddad yrkesbeteckning;registered general practitioner
+603;nimikesuojattu mielenterveyshoitaja;mentalvårdare med skyddad yrkesbeteckning;registered specialist
+604;nimikesuojattu lastenhoitaja;barnskötare med skyddad yrkesbeteckning;registered specialist
+605;nimikesuojattu lähihoitaja (terveydenhuolto);närvårdare (hälsovård) med skyddad yrkesbeteckning;specialised dental practitioner
+607;nimikesuojattu perushoitaja;primärskötare med skyddad yrkesbeteckning;specialised dental practitioner
+610;nimikesuojattu hammashoitaja;tandskötare med skyddad yrkesbeteckning;registered nurse
+611;laillistettu suuhygienisti;legitimerad munhygienist;registered nurse
+612;nimikesuojattu jalkaterapeutti;fotterapeut med skyddad yrkesbeteckning;orthopaedic technician with protected occupational title
+613;nimikesuojattu jalkojenhoitaja;fotvårdare med skyddad yrkesbeteckning;chiropractor with protected occupational title
+614;nimikesuojattu lääkintävahtimestari-sairaankuljettaja;medikalvaktmästare-ambulansförare med skyddad yrkesbeteckning;chiropractor with protected occupational title
+250;laillistettu sosiaalityöntekijä;legitimerad socialarbetare;naprapath with protected occupational title
+251;laillistettu sosionomi;legitimerad socionom;naprapath with protected occupational title
+252;laillistettu geronomi;legitimerad geronom;osteopath with protected occupational title
+253;nimikesuojattu lähihoitaja (sosiaalihuolto);närvårdare (socialvård) med skyddad yrkesbeteckning;osteopath with protected occupational title
+254;nimikesuojattu kodinhoitaja;hemvårdare med skyddad yrkesbeteckning;registered midwife
+255;nimikesuojattu kehitysvammaistenhoitaja;vårdare av utvecklingshämmade med skyddad yrkesbeteckning;registered midwife
+266;laillistettu kuntoutuksen ohjaaja;legitimerad rehabiliteringsledare;registered public health nurse
